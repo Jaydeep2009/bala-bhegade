@@ -1,0 +1,10 @@
+export { Header } from './Header';
+export { Footer } from './Footer';
+export { HeroSection } from './HeroSection';
+export { AboutIntroSection } from './AboutIntroSection';
+export { PublicWorkSection } from './PublicWorkSection';
+export { NewsSection } from './NewsSection';
+export { EventsSection } from './EventsSection';
+export { GallerySection } from './GallerySection';
+export { InstagramSection } from './InstagramSection';
+export { ContactSection } from './ContactSection';

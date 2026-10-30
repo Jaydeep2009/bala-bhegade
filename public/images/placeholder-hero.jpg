@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e5a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a2112;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <text x="960" y="500" text-anchor="middle" fill="#fdf9f0" font-family="Georgia, serif" font-size="48" opacity="0.6">Hero Image Placeholder</text>
+  <text x="960" y="560" text-anchor="middle" fill="#fdf9f0" font-family="sans-serif" font-size="24" opacity="0.4">Replace with actual photograph</text>
+</svg>
